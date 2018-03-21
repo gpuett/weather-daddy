@@ -1,0 +1,27 @@
+#name{
+  max-width: 250px;
+}
+
+#city {
+  max-width: 250px;
+}
+
+#output {
+  display: none;
+  text-align: center;
+}
+
+.container{
+  background-color: silver;
+  max-width: 600px;
+  padding-bottom: 40px;
+}
+
+body {
+  background-image: url(../img/thunder.jpg);
+  background-repeat: no-repeat;
+}
+
+h1 {
+  text-align: center;
+}
